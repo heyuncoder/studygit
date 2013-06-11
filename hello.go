@@ -1,5 +1,5 @@
 package main
 import "fmt"
-void main(){
+func main(){
 	fmt.Println("hello,world!")
 }
