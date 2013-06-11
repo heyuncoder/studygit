@@ -3,3 +3,6 @@ import "fmt"
 func main(){
 	fmt.Println("hello,world!")
 }
+func Test(){
+//do something...
+}
